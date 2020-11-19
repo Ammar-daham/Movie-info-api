@@ -7,7 +7,7 @@
 */
 
 // hakuosoitteen vakio-osa.
-const apiurl = "http://api.tvmaze.com/search/shows?q=";
+const apiurl = "https://api.tvmaze.com/search/shows?q=";
 
 // lopullinen hakukysely, joka lähetetään nettiin.
 let apiKysely;
